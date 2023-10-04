@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Joao Parrela 😁
 
  <div>
-   <a href="https://github.com/devemdobro">
+   <a href="https://github.com/JoaoParr">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoParr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoParr&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
