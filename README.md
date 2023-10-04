@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Joao Parrela 😁
+## Bem-vindo(a) ao perfil do Joao Parrela 👨🏽‍💻
 
  <div>
    <a href="https://github.com/JoaoParr">
